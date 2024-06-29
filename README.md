@@ -1,6 +1,18 @@
-<h1>BrainTech IT Solutions</h1>
-<h2>This project is created using html css and jQuery</h2>
-<span>Dark Mode Included</span>
+#  Braintech IT Solution
+
+This website is created using html, css, jQuery, media query. 
+
+
+## Features
+
+- Dark Mode
+- Animation On Scroll
+- Particles
+- Sliders
+- Counter
+- Responsive
+- Lazy Load
+
 <h3>Screenshots :</h3>
 <br/>
 <br/>
