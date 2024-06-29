@@ -1,14 +1,13 @@
-$(document).ready(function () {
+$(window).on("load", function () {
   $("#loader").show();
 
   // Hide loader once everything is loaded
-  $(window).on("load", function () {
-    setTimeout(function () {
-      $("#loader").fadeOut("1000", function () {
-        $("#body-wrapper").fadeIn("1000");
-      });
-    }, 1000);
-  });
+
+  setTimeout(function () {
+    $("#loader").fadeOut("1000", function () {
+      $("#body-wrapper").fadeIn("1000");
+    });
+  }, 1000);
 
   AOS.init();
   // Dropdown in mobile view
