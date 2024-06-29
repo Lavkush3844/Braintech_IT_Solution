@@ -721,7 +721,7 @@ nav ul li a:hover,
   position: relative;
 }
 
-.sb1 .service-box:hover {
+.sb1.service-box:hover {
   background-color: #f072d6;
 }
 
@@ -731,23 +731,23 @@ nav ul li a:hover,
   color: var(--white);
 }
 
-.sb2 .service-box:hover {
+.sb2.service-box:hover {
   background-color: #4790f2;
 }
 
-.sb3 .service-box:hover {
+.sb3.service-box:hover {
   background-color: #61ce70;
 }
 
-.sb4 .service-box:hover {
+.sb4.service-box:hover {
   background-color: #626ff3;
 }
 
-.sb5 .service-box:hover {
+.sb5.service-box:hover {
   background-color: #4ccbe6;
 }
 
-.sb6 .service-box:hover {
+.sb6.service-box:hover {
   background-color: #e65599;
 }
 
