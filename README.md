@@ -1,4 +1,4 @@
-<h1>BrainTech Website</h1>
+<h1>BrainTech IT Solutions</h1>
 <h2>This project is created using html css and jQuery</h2>
 <span>Dark Mode Included</span>
 <h3>Screenshots :</h3>
